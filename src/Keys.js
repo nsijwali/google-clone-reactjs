@@ -1,3 +1,3 @@
-export const API_KEY = 'AIzaSyBZlDSZk2YpusAbsw6aaN0wMmFsFyGWF0A';
+export const API_KEY = 'YOUR_API_KEY';
 
 export default API_KEY;
