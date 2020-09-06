@@ -8,7 +8,7 @@ IMPORTANT Notice:
 
 ## use your own API_KEY and CONTEXT_KEY and keep it private. Never share it.
 
-## you only get 100 searches hit free per day. Use dummy JSON for tsting or debugging. Refer /response.js
+## you only get 100 searches hit free per day. Use dummy JSON for testing or debugging. Refer /response.js
 
 ## Available Scripts
 
