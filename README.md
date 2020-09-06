@@ -1,6 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-checkout---> https://clone-8a0d0.web.app/
+checkout the app here ---> https://clone-8a0d0.web.app/
+
+Created by: Nitin Sijwali.
+
+IMPORTANT Notice:
+
+## use your own API_KEY and CONTEXT_KEY and keep it private. Never share it.
+
+## you only get 100 searches hit free per day. Use dummy JSON for tsting or debugging. Refer /response.js
 
 ## Available Scripts
 
@@ -28,6 +36,10 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## for firebase deploy
+
+checkout--->> https://firebase.com. You only need gmail account to login.
 
 ### `npm run eject`
 

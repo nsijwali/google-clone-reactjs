@@ -2,6 +2,11 @@
   "name": "google-clone",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Nitin Sijwali",
+    "email": "sijwalinitin@gmai.com"
+  },
+  "description": "Google clone is developed using Reactjs and context-api. This is a dummy project an supports only 100 searches hits per day",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
